@@ -1,0 +1,20 @@
+{
+  "name": "nodejsex",
+  "version": "1.0.0",
+  "description": "node js excercices and examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://githup.com/trungbetter/techmaster_nodejs.git"
+  },
+  "keywords": [
+    "trungnd",
+    "techmaster",
+    "nodejs"
+  ],
+  "author": "TrungND",
+  "license": "MIT"
+}
